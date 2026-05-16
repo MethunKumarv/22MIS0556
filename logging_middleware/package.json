@@ -1,0 +1,20 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "description": "Reusable logging module for backend applications",
+  "main": "utils/logger.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "logging",
+    "middleware",
+    "backend",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
